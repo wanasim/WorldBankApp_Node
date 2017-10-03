@@ -1,0 +1,11 @@
+{
+   "memory": "2G",
+   "instances": "2",
+   "services": [{
+      "identifier": "WorldBank-DB",
+      "type": "DBAAS",
+      "name": "WorldBank-DB",
+      "username": "system",
+      "password": "Welcome1#"
+   }]
+}
